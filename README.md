@@ -1,5 +1,27 @@
-BOT GRASS SESSION 2 LIVE NOW !!
-NEW USER TO JOIN : https://app.getgrass.io/register?referralCode=14euVrmXslgPwPI
+## BOT GRASS SESSION 2 LIVE NOW !!
+
+NEW USER TO JOIN : (https://app.getgrass.io)
+
+1. clone project repo
+   ```
+   git clone https://github.com/0xWinNode/GRASS.git
+   ```
+   and cd to project dir
+   ```
+   cd GRASS
+   ```
+2. Run
+   ```
+   pip install -r requirements.txt
+   ```
+3. Run
+   ```
+   nano proxy.txt
+   ```
+3. Run
+   ```
+   python main.py
+   ```
 
 need userid : check this video to get userid
 
