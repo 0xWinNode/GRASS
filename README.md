@@ -18,9 +18,10 @@ NEW USER TO JOIN : https://app.getgrass.io
    ```
    touch proxy.txt
    ```
+   ```
    nano proxy.txt
    ```
-5. Run
+6. Run
    ```
    python main.py
    ```
