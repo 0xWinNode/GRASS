@@ -16,10 +16,6 @@ NEW USER TO JOIN : (https://app.getgrass.io)
    ```
 3. Run
    ```
-   nano proxy.txt
-   ```
-3. Run
-   ```
    python main.py
    ```
 
