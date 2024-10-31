@@ -1,6 +1,6 @@
 ## BOT GRASS SESSION 2 LIVE NOW !!
 
-NEW USER TO JOIN : (https://app.getgrass.io)
+NEW USER TO JOIN : https://app.getgrass.io
 
 1. clone project repo
    ```
