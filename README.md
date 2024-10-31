@@ -14,7 +14,13 @@ NEW USER TO JOIN : https://app.getgrass.io
    ```
    pip install -r requirements.txt
    ```
-3. Run
+4. Run
+   ```
+   touch proxy.txt
+   ```
+   nano proxy.txt
+   ```
+5. Run
    ```
    python main.py
    ```
