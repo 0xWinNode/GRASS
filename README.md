@@ -37,7 +37,7 @@ http://user:pass@ip:port
 
 ## Support me
 Buy me a coffe
-- DANA
+- QRIS
 
 ![Screenshot_20241101_100040_DANA](https://github.com/user-attachments/assets/389dbc74-6bc8-4f70-9d04-a9f62312ab3f)
 
