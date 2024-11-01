@@ -26,9 +26,11 @@ NEW USER TO JOIN : https://app.getgrass.io
    python main.py
    ```
 
-need userid : check this video to get userid
+## Need userid : check this video to get userid
 
-format proxy ( proxy.txt )
+https://github.com/user-attachments/assets/2218bf46-c1aa-458c-96c6-3a56f2e0c3fe
+
+- format proxy ( proxy.txt )
 http://user:pass@ip:port 
 
-u can change http or socks5 or socks4 dll 
+- u can change http or socks5 or socks4 dll 
