@@ -36,7 +36,7 @@ http://user:pass@ip:port
 - u can change http or socks5 or socks4 dll
 
 ## Support me
-Buy me a caffe
+Buy me a coffe
 - DANA
 
 ![Screenshot_20241101_100040_DANA](https://github.com/user-attachments/assets/389dbc74-6bc8-4f70-9d04-a9f62312ab3f)
